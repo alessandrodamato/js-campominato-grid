@@ -16,3 +16,7 @@ Aggiungere una select accanto al bottone di generazione, che fornisca una scelta
 2. Creare un reset dell'HTML in JS 
 3. Rendere la griglia dinamica stampando i vari quadrati tramite ciclo for, assegnando loro i numeri dell'indice progressivo
 4. Al click del quadrato specifico (this) si aggiungera ad esso una classe che lo colori azzurro e un log dell'indice relativo
+
+#### Bonus
+1. Creare una select con 3 difficoltà diverse
+2. Per ognuna di esse impostare dinamicamente il numero di quadrati e la misura di essi

@@ -30,6 +30,23 @@ main {
   border: 1px solid black;
 }
 
+.ad_square.easy{
+  width: calc(100% / 7);
+  height: calc(100% / 7);
+  background-color: salmon;
+}
+
+.ad_square.medium{
+  width: calc(100% / 9);
+  height: calc(100% / 9);
+  background-color: wheat;
+}
+
+.ad_square.clicked{
+  background-color: aqua;
+  color: black;
+}
+
 /* footer */
 
 footer{
