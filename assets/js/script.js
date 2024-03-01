@@ -22,7 +22,7 @@ function generateSquares (index) {
   // controllo misura quadrati
   if (nGrid === 49) {
     
-    sq.classList.add('easy')
+    sq.classList.add('hard')
     
   } else if (nGrid === 81) {
         
@@ -60,7 +60,7 @@ function reset () {
 
 function difficultyGrid () {
 
-  if (difficultyOption.value === 'easy') {
+  if (difficultyOption.value === 'hard') {
 
     return 49;
     
