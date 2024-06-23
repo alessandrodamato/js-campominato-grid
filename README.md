@@ -1,5 +1,6 @@
 Griglia Campo Minato
 ===
+**Consegna**  
 L’utente clicca su un bottone che genererà una griglia di gioco quadrata.  
 Ogni cella ha un numero progressivo, da 1 a 100.  
 Ci saranno quindi 10 caselle per ognuna delle 10 righe.  
@@ -17,6 +18,6 @@ Aggiungere una select accanto al bottone di generazione, che fornisca una scelta
 3. Rendere la griglia dinamica stampando i vari quadrati tramite ciclo for, assegnando loro i numeri dell'indice progressivo
 4. Al click del quadrato specifico (this) si aggiungera ad esso una classe che lo colori azzurro e un log dell'indice relativo
 
-#### Bonus
+**Svolgimento Bonus**  
 1. Creare una select con 3 difficoltà diverse
 2. Per ognuna di esse impostare dinamicamente il numero di quadrati e la misura di essi
